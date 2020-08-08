@@ -2,7 +2,6 @@ import 'dart:ui';
 
 import 'package:airbnb_clone/Routes/AddProperty/CategorieType.dart';
 import 'package:airbnb_clone/Routes/Map.dart';
-import 'package:airbnb_clone/Routes/SignIn.dart';
 import 'package:airbnb_clone/Widgets/ItemDropDownButtonCategory.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
